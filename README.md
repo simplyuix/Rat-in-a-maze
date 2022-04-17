@@ -64,3 +64,4 @@ You can even change the colors of the maze; they are customizable
 
 The above program, displays all the possible colors in tkinter.# Rat-in-a-maze
 # Rat-in-a-maze
+# Rat-in-a-maze
